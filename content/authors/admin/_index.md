@@ -20,8 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
-interests:
-[]
+interests: []
 
 education:
   courses:
@@ -36,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:ngrasley@stanford.edu".
+  link: #contact "mailto:ngrasley@stanford.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/n_grasley
@@ -55,8 +54,7 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-[]
+user_groups: []
 ---
 
 I am a first-year doctoral student at Stanford University. I graduated from BYU in 2019 in economics and math.
